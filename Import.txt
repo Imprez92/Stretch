@@ -1,14 +1,14 @@
-Wall Chest Stretch | time=30 rest=10 cue=15 hold=2
-Standing Quadriceps Stretch | time=30 rest=10 cue=15 hold=2
-Standing Calf Stretch | time=30 rest=10 cue=15 hold=2
-Shoulder Shrug | time=30 rest=10 cue=15 hold=2
-Overhead Triceps Stretch | time=30 rest=10 cue=15 hold=2
-Lateral Neck Stretch | time=30 rest=10 cue=15 hold=2
-Cross-Body Shoulder Stretch | time=30 rest=10 cue=15 hold=2
-Behind-the-Back Shoulder Stretch | time=30 rest=10 cue=15 hold=2
-Standing Overhead Side Stretch | time=30 rest=10 cue=15 hold=2
-Standing Backbend | time=30 rest=10 cue=15 hold=2
-Single Knee-to-Chest Stretch | time=30 rest=10 cue=15 hold=2
-Figure 4 Stretch | time=30 rest=10 cue=15 hold=2
-Pigeon Pose | time=30 rest=10 cue=15 hold=2
-Child's Pose | time=30 rest=10 cue=15 hold=2
+Wall.Chest.Stretch | time=30 rest=5 cue=0 hold=0
+Standing.Quadriceps.Stretch | time=60 rest=5 cue=15 hold=3
+Standing.Calf.Stretch | time=60 rest=5 cue=15 hold=3
+Shoulder.Shrug | time=30 rest=5 cue=0 hold=0
+Overhead.Triceps.Stretch | time=60 rest=5 cue=15 hold=3
+Lateral.Neck.Stretch | time=60 rest=5 cue=15 hold=3
+Cross-Body.Shoulder.Stretch | time=60 rest=5 cue=15 hold=3
+Behind-the-Back.Shoulder.Stretch | time=30 rest=5 cue=0 hold=0
+Standing.Overhead.Side.Stretch | time=60 rest=5 cue=15 hold=3
+Standing.Backbend | time=30 rest=5 cue=0 hold=0
+Single.Knee-to-Chest.Stretch | time=60 rest=5 cue=15 hold=3
+Figure.4.Stretch | time=60 rest=5 cue=15 hold=3
+Pigeon.Pose | time=60 rest=5 cue=15 hold=3
+Child.s.Pose | time=30 rest=5 cue=0 hold=0
